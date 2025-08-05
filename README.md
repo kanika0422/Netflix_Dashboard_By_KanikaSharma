@@ -57,7 +57,7 @@ This Power BI dashboard provides a comprehensive visual summary of Netflix’s c
 
 💠Screenshot/Demo:
    Here I attached the link of the SCREENSHOT of my Dashboard to show you the Demo of the analysis.
-   
+   https://github.com/kanika0422/Netflix_Dashboard_By_KanikaSharma/blob/main/05.08.2025_23.32.09_REC.png
 
      
       
